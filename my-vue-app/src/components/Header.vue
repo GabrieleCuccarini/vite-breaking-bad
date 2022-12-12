@@ -5,10 +5,10 @@
 <template>
   <div class="container-fluid d-flex align-items-center">
     <div class="left-side d-flex flex-shrink-0">
-      <img src="../img/breaking-bad-logo.png" alt="">
+      <img src="../img/logo.png" alt="">
     </div>
     <div class="right-side">
-      <h1>Breaking Bad Api</h1>
+      <h1>Rick & Morty Api</h1>
     </div>
   </div>
 </template>
@@ -24,7 +24,7 @@ h1 {
 }
 
 .left-side img {
-  width: 60px;
+  width: 100px;
   aspect-ratio: 1 / 1;
 }
 </style>
